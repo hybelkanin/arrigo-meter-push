@@ -1,0 +1,13 @@
+{
+  "name": "arrigo-metervalue-push",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Teodor Andersson <teodor.andersson@rssoftware.se>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.2.10"
+  },
+  "scripts": {"start":"node index.js"}
+}
